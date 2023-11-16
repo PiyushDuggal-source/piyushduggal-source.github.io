@@ -15,7 +15,7 @@ order: 4
 
 I am a <em>self taught programmer</em>, a <em>student</em> and a <em>full stack developer</em>. I am pursuing my [BS in Data Science and Applications](https://study.iitm.ac.in) from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/);
 <br/>
-Currently, I am working as a freelancer 👨‍💻, working on some of my [own open source projects](#my-projects%3A) 🌟, helping peers with their projects 👥 and learning new things;
+Currently, I am working as a freelancer 👨‍💻, working on some of my [own open source projects](#my-projects) 🌟, helping peers with their projects 👥 and learning new things;
 
 ### I am currently learning:
 
