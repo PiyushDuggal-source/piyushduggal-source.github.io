@@ -6,6 +6,7 @@ tags: [python, iitmbs, iitm]
 ---
 
 ## Weird Dictionaries simplified 📚
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyushduggal-source.weird-dictionaries)
 
 Hey everyone 👋 <br/>
 This is my first ever `blog` on the internet, I am excited to share my journey with you.
