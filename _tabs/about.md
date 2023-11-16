@@ -26,7 +26,7 @@ Currently, I am working as a freelancer 👨‍💻, working on some of my [own 
 
 ### I am looking to collaborate on:
 
-- Open source projects <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Open_Source_Initiative.svg" style="height: 25px" />
+- Open source projects <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Open_Source_Initiative.svg" alt="Open Source Initiative" style="height: 25px" />
 
 ### My progress:
 
