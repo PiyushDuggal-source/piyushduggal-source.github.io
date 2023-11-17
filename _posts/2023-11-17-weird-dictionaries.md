@@ -6,6 +6,7 @@ tags: [python, iitmbs, iitm]
 ---
 
 ## Weird Dictionaries simplified 📚
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyushduggal-source.weird-dictionaries)
 
 Hey everyone 👋 <br/>
@@ -18,7 +19,7 @@ A: A book? A book that contains many pages? A book that has meanings of other wo
 
 Well, technically yes... But **Pythonically** 🐍 no!!
 
-So, what is a **Dictionary** in Python? <br/
+So, what is a **Dictionary** in Python? <br/>
 Lets compare it with real world dictionaries. Imagine a real-world dictionary that helps you find the meaning of words. Python dictionaries work similarly, but instead of words and meanings, they store `key-value` pairs. These key-value pairs allow you to quickly find information based on a unique "_key._"
 
 In simple words, think of a **Dictionary** as Locker Room 🔒, where each _key_ 🔑 opens a specific _lock!_ 🔐
