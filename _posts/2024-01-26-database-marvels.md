@@ -52,7 +52,7 @@ we no longer have to use stone tablets or perhaps pencil and paper
 
 
 Here is an example of a simple google sheet:
-<img src="https://i.imgur.com/Wn4NTL1.png">
+<img src="https://i.imgur.com/Wn4NTL1.png" alt="Google Sheet">
 
 And notice how this diagram has `rows` and `columns` and different types of data.
 
