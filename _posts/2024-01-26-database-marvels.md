@@ -85,7 +85,7 @@ named **Superheroes** could have **columns** like **Name**, **Power**, and **Ori
 
 ### 2. Queries: Our Superpowers 🦸‍♂️🦸‍♀️
 
-Obviously, I'll choose <img src="/assets/img/batman.jpeg" alt="Batman" style="height: 25px; border-radius: 2px;">
+Obviously, I'll choose <img src="/assets/img/batman.jpeg" alt="Batman image" style="height: 25px; border-radius: 2px;">
 
 Just like **Batman** have special powers, you can also perform mighty feats with SQL queries. Wants to find **Batman**? Easy peasy:
 
