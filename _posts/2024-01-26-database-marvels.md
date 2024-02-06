@@ -38,14 +38,14 @@ Lets just say I want to organize my library! We have:
 
 just like that:
 
-<img width='400' src="https://i.imgur.com/62v28ef.png" />
+<img width='400' src="https://i.imgur.com/62v28ef.png" alt="Books and Authors" />
 
 - ##### So the question is, how might you propose I store this information? 🤔💭
   - well I can use a **table**!
 
 like this:
 
-<img width='400' src="https://i.imgur.com/sqripLl.png" />
+<img width='400' src="https://i.imgur.com/sqripLl.png" alt="Table" />
 
 So thankfully, now that we're living in this information age,
 we no longer have to use stone tablets or perhaps pencil and paper
